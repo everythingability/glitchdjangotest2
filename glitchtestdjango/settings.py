@@ -25,7 +25,7 @@ SECRET_KEY = 'zb^kk+y#x1u$qop_kshv3i5$t68pvez&y+%!c+hhq&=@xx9mad'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['everythingability-glitchdjangotest2.glitch.me', '127.0.0.1']
 
 
 # Application definition
